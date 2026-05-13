@@ -8,9 +8,9 @@ This repository will host my projects and technical documentation for the Cyber 
  **Timeline:** May 10 – June 10, 2026
 
 # Projects & Task Tracking
-- [ ] Task 1: [Pending task list review]
+Task 1: [Vulnerability Assessment Report for a Live Website] 
 - [ ] Task 2: [Pending task list review]
 - [ ] Task 3: [Pending task list review]
 
 ---
-*Last updated: May 10, 2026*
+*Last updated: May 13, 2026*
